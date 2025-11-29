@@ -1,0 +1,1 @@
+It is basic xox game. I made it for developing my coding skills. Firstly I designed the game interface in Figma after I wrote html and css codes then I integrate with JS. I add "restart button" and "line:" part.  
